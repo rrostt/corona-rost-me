@@ -1,0 +1,16 @@
+{
+  "name": "corona-rost-me",
+  "version": "1.0.0",
+  "description": "**Skydda de äldre**",
+  "main": "index.js",
+  "scripts": {
+    "build": "showdown makehtml -u UTF8 -i README.md -o body.html && cat prefix.html > index.html && cat body.html >> index.html",
+    "deploy": "npm run build && aws s3 cp index.html s3://corona.rost.me/ --acl public-read"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "showdown": "^1.9.1"
+  }
+}
