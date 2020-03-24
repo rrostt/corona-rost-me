@@ -8,7 +8,8 @@
 - [Res inte inom landet om det inte är nödvändigt.](https://www.svt.se/nyheter/inrikes/folkhalsomyndigheten-undvik-att-resa-inom-sverige)
 - [Elever som är sjuka och kan riskera att smitta andra ska stanna hemma från skolan. Friska och symtomfria elever ska gå i skolan. För information om vad som gäller på en särskild skola eller förskola, kontakta rektor eller huvudman.](https://www.krisinformation.se/detta-kan-handa/handelser-och-storningar/20192/myndigheterna-om-det-nya-coronaviruset/arbetsgivaretagare)
 - [Undvik sociala kontakter om du har symtom eller är över 70 år](https://www.krisinformation.se/detta-kan-handa/handelser-och-storningar/20192/myndigheterna-om-det-nya-coronaviruset)
-- [Undvik att träffa äldre i onödan](https://www.krisinformation.se/detta-kan-handa/handelser-och-storningar/20192/myndigheterna-om-det-nya-coronaviruset)
+- [Undvik att träffa äldre](https://www.krisinformation.se/detta-kan-handa/handelser-och-storningar/20192/myndigheterna-om-det-nya-coronaviruset)
+
 
 ## Symptom
 
@@ -24,6 +25,7 @@
 
 ## Åtgärder
 
+- 2020-03-24 Endast bordservering på restauranger
 - 2020-03-19 Alla resor til sverige från utanför EU förbjuds
 - 2020-03-17 Gymnasie- och högskoleundervisning rekommenderas att bedrivas på distans
 - 2020-03-12 Samlingar på mer än 500 personer förbjuds
